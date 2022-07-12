@@ -1,0 +1,12 @@
+---
+title: "READMe"
+author: "Perla Lopez Flores"
+date: "2022-07-12"
+output: html_document
+---
+
+This is a project by Perla Lopez Flores analyzing data on amazon bestselling books. It uses the books dataset from [kaggle](https://www.kaggle.com/datasets/sootersaalu/amazon-top-50-bestselling-books-2009-2019)
+
+Include in your README:
+- A description (1-2 sentences) about your dataset
+- Your name
